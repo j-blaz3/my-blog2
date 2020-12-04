@@ -28,7 +28,7 @@ const Header = () => {
           </button>
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <a className="search-button" href="#">
+            <a className="search-button" href="#section">
               <i className="fa fa-search"></i>
             </a>
             <form className="form-search">
@@ -61,7 +61,7 @@ const Header = () => {
                 </ul>
               </li>
               <li className="drop-link">
-                <a href="#">
+                <a href="#section">
                   Features{" "}
                   <i className="fa fa-angle-down" aria-hidden="true"></i>
                 </a>
@@ -130,7 +130,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -144,7 +144,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -158,7 +158,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -174,7 +174,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -190,7 +190,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -202,13 +202,13 @@ const Header = () => {
                 <div className="mega-dropdown">
                   <ul className="filter-list">
                     <li>
-                      <a href="#">Travel</a>
+                      <a href="#section">Travel</a>
                     </li>
                     <li>
-                      <a href="#">Trending</a>
+                      <a href="#section">Trending</a>
                     </li>
                     <li>
-                      <a href="#">Latest</a>
+                      <a href="#section">Latest</a>
                     </li>
                   </ul>
                   <div className="news-post standard-post">
@@ -220,7 +220,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -234,7 +234,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -250,7 +250,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -266,7 +266,7 @@ const Header = () => {
                     </h2>
                     <ul className="post-tags">
                       <li>
-                        by <a href="#">John Smith</a>
+                        by <a href="#section">John Smith</a>
                       </li>
                       <li>1 days ago</li>
                     </ul>
@@ -279,17 +279,17 @@ const Header = () => {
             </ul>
             <ul className="navbar-nav ml-auto social-list">
               <li>
-                <a href="#">
+                <a href="#section">
                   <i className="fa fa-facebook"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="#section">
                   <i className="fa fa-twitter"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="#section">
                   <i className="fa fa-instagram"></i>
                 </a>
               </li>

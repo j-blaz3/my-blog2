@@ -11,7 +11,7 @@ const Slider = () => {
                 <img src="upload/blog/home5/sl1.jpg" alt="" />
                 <div className="hover-post">
                   <div>
-                    <a className="category-link" href="#">
+                    <a className="category-link" href="#section">
                       Travel
                     </a>
                   </div>
@@ -22,11 +22,11 @@ const Slider = () => {
                   </h2>
                   <ul className="post-tags">
                     <li>
-                      <a href="#">3 comments</a>
+                      <a href="#section">3 comments</a>
                     </li>
                     <li>3 days ago</li>
                     <li>
-                      by <a href="#">John Smith</a>
+                      by <a href="#section">John Smith</a>
                     </li>
                   </ul>
                   <a className="white-button" href="single-post.html">
@@ -41,7 +41,7 @@ const Slider = () => {
                 <img src="upload/blog/home5/sl2.jpg" alt="" />
                 <div className="hover-post">
                   <div>
-                    <a className="category-link" href="#">
+                    <a className="category-link" href="#section">
                       Lifestyle
                     </a>
                   </div>
@@ -52,14 +52,14 @@ const Slider = () => {
                   </h2>
                   <ul className="post-tags">
                     <li>
-                      <a href="#">3 comments</a>
+                      <a href="#section">3 comments</a>
                     </li>
                     <li>3 days ago</li>
                     <li>
-                      by <a href="#">John Smith</a>
+                      by <a href="#section">John Smith</a>
                     </li>
                   </ul>
-                  <a className="white-button" href="single-post.html">
+                  <a className="white-button" href="#section">
                     View Post
                   </a>
                 </div>
